@@ -1,4 +1,6 @@
 
+Live: https://pumped-saga-svjany0rhp.glitch.me
+
 
 - This web app consists in a functional component.
 - JSON data is stored locally public/data/sample.json
